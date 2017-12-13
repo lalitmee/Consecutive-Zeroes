@@ -22,8 +22,12 @@ if (t < 1 or t >= 10**3):
 
 
 for number in range(t):
+    mod = 10**9 + 7
+    result = []
+
     n = int(input())
-    if (n < 1 or n >= 10**4):
+    if (n < 1 or n >= 10**15):
         sys.exit("Number of binary digits should be less than 10000")
-    res = Solution().withoutConsectiveZeroes(n)
-    print(res)
+    
+    result = Solution().withoutConsectiveZeroes(n) % mod
+    print(result)
