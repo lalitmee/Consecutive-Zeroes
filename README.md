@@ -48,9 +48,9 @@ original constraints
 
 ## Execution of Codes ##
 
-1. Java Code 
-    javac ZeroBit.java
-    java ZeroBit
+1. Java Code <br>
+    `javac ZeroBit.java 
+    java ZeroBit`
 
 2. Python Code
     python3 ZeroBit.py
