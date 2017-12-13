@@ -1,4 +1,4 @@
-Consecutive Zeroes Problem
+# Consecutive Zeroes Problem #
 ==========================
 
 ## Problem Statement: ##
