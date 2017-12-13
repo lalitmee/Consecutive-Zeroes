@@ -17,18 +17,18 @@ For t test cases, output the total number of bit string possible. Since this num
 
 ## Constraints: ##
 
-1 <= t <= 10^3
+1 <= t <= 10^3__
 1 <= n <= 10^15
 
 ## Input Example: ##
 
-2
-2
+2__
+2__
 3
 
 ## Output Example: ##
 
-3
+3__
 5
 
 ## Explanation: ##
@@ -37,8 +37,10 @@ For first test case (n = 2), the total possible bit strings are {01,10,11}. So a
 Second test case is same as provided in problem statement.
 
 ## Subtask 1 (40 points): ##
-t = 1
+
+t = 1__
 1 <= n <= 10^4
 
 ## Subtask 2 (60 points): ##
+
 original constraints
