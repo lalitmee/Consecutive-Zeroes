@@ -51,8 +51,10 @@ original constraints
 1. Java Code <br>
     ```shell   
     javac ZeroBit.java 
-    java ZeroBit```
+    java ZeroBit
+    ```
 
 2. Python Code
     ```shell
-    python3 ZeroBit.py```
+    python3 ZeroBit.py
+    ```
